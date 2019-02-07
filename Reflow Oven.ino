@@ -1,4 +1,7 @@
 /*******************************************************************************
+* Made by TishcaDev (Julio Alberto Romo Tiscareño)
+* (CopyRigth) GPL2 License
+*
 * Temperature (Degree Celcius)                 Magic Happens Here!
 * 245-|                                               x  x  
 *     |                                            x        x
