@@ -1,7 +1,8 @@
 /*******************************************************************************
 * Made by TishcaDev (Julio Alberto Romo Tiscareño)
 * (CopyRigth) GPL2 License
-*
+* Date(21/Sept/2017)
+* Repository:https://github.com/TishcaRep/Reflow-Oven-Arduino-one/
 * Temperature (Degree Celcius)                 Magic Happens Here!
 * 245-|                                               x  x  
 *     |                                            x        x
